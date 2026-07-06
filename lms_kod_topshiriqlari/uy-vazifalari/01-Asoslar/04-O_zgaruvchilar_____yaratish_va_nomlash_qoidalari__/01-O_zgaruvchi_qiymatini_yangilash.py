@@ -1,0 +1,2 @@
+print("Boshlandi")
+print("Tugadi")
