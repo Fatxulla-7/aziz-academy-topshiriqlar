@@ -1,0 +1,6 @@
+n = input()
+m = input()
+a = input()
+print("Ism:", n)
+print("Yosh:", m)
+print("Kurs:", a)
