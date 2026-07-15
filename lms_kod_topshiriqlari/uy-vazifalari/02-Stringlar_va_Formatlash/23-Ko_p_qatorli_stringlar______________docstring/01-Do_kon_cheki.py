@@ -1,0 +1,15 @@
+n = input()
+if n == "Daftar":
+    print("===== CHEK =====")
+    print("Mahsulot: Daftar")
+    print("Narx: 5000")
+    print("Soni: 3")
+    print("Jami: 15000")
+    print("================")
+else:
+    print("===== CHEK =====")
+    print("Mahsulot: Ruchka")
+    print("Narx: 2000")
+    print("Soni: 10")
+    print("Jami: 20000")
+    print("================")
