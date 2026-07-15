@@ -4,30 +4,35 @@
 
 ## 📊 Umumiy progress
 
-`████████░░░░░░░░░░░░` **38%**  (68/179 mavzu)
+`░░░░░░░░░░░░░░░░░░░░` **2%**  (4/179 mavzu)
 
-- ⭐ Jami ball: **26157**
-- 📤 GitHubga yuborilgan topshiriqlar: **451**
+- ⭐ Jami ball: **26572**
+- 📤 GitHubga yuborilgan topshiriqlar: **452**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 10 — Iterator, Generator, Decorator** → **Mustahkamlash 🔁 — generator + decorator amaliy masala**
+**MODUL 1 — Asoslar** → **Type casting ⭐ — type(), int(), float(), str(), bool()**
 
-➡️ Keyingi mavzu: *Dekoratorlarga kirish ⭐ — funksiya ichida funksiya, closure*
+➡️ Keyingi mavzu: *O'rnatish va muhit — Python, interpreter, IDE sozlash*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
 
-- ✅ Iterator protokoli ⭐ — __iter__, __next__
-- ✅ O'z iteratoringiz 🛠 — maxsus iterator klass yozish
-- ✅ Generatorlar ⭐ — yield, xotira tejamkorligi
-- ✅ Generator expressions — (x for x in ...)
-- ✅ itertools moduli — count, cycle, chain, groupby
-- ⬜ Dekoratorlarga kirish ⭐ — funksiya ichida funksiya, closure
-- ⬜ Amaliy decorator — log, vaqt o'lchash, cache (@lru_cache)
-- ⬜ Context manager yaratish — __enter__, __exit__, @contextmanager
-- ⬜ 🛠 Loyiha: Mini framework — dekorator asosida route tizimi
-- ✅ Mustahkamlash 🔁 — generator + decorator amaliy masala  ← yetgan joyingiz
+- ✅ Dasturlashga kirish — Python nima va nega o'rganamiz
+- ⬜ O'rnatish va muhit — Python, interpreter, IDE sozlash
+- ⬜ Birinchi dastur ⭐ — print() va kommentlar
+- ✅ O'zgaruvchilar ⭐ — yaratish va nomlash qoidalari (snake_case)
+- ✅ Sonlar: int va float — butun va kasr sonlar
+- ⬜ Stringlar — kirish: matn, qo'shtirnoqlar, len()
+- ⬜ Bool va mantiq — True/False, mantiqiy ifodalar
+- ⬜ input() bilan ishlash ⭐ — foydalanuvchidan ma'lumot olish
+- ⬜ Arifmetik operatorlar — + - * / // % ** va prioritet
+- ⬜ Mantiqiy operatorlar — and, or, not
+- ⬜ Solishtirish operatorlari — == != > < >= <=
+- ✅ Type casting ⭐ — type(), int(), float(), str(), bool()  ← yetgan joyingiz
+- ⬜ 🛠 Mini-loyiha: Kalkulyator — ikki son ustida amallar (CLI)
+- ⬜ Kod madaniyati: PEP8 — bo'sh joy, nomlash, o'qiluvchanlik
+- ⬜ Xatolik turlari 🔁 — syntax vs runtime, xatoni o'qish
 
 </details>
 
@@ -35,16 +40,16 @@
 
 | # | Modul | Progress | Mavzular |
 |---|-------|----------|----------|
-| 1 | 🔸 Asoslar | `███████░░░` 73% | 11/15 |
+| 1 | 🔸 Asoslar | `███░░░░░░░` 27% | 4/15 |
 | 2 | ⬜ Stringlar va Formatlash | `░░░░░░░░░░` 0% | 0/10 |
-| 3 | 🔸 Shartlar va Sikllar | `███████░░░` 73% | 11/15 |
-| 4 | 🔸 Ma'lumot Tuzilmalari | `███░░░░░░░` 33% | 6/18 |
-| 5 | 🔸 Comprehensions | `██████░░░░` 60% | 3/5 |
-| 6 | 🔸 Funksiyalar | `████░░░░░░` 42% | 5/12 |
-| 7 | 🔸 Modullar va Fayllar | `████████░░` 80% | 12/15 |
-| 8 | 🔸 Xatolar, Test va Debug | `███████░░░` 73% | 8/11 |
-| 9 | 🔸 OOP (Obyektga Yo'naltirilgan Dasturlash) | `███░░░░░░░` 33% | 6/18 |
-| 10 | 🔸 Iterator, Generator, Decorator | `██████░░░░` 60% | 6/10 |
+| 3 | ⬜ Shartlar va Sikllar | `░░░░░░░░░░` 0% | 0/15 |
+| 4 | ⬜ Ma'lumot Tuzilmalari | `░░░░░░░░░░` 0% | 0/18 |
+| 5 | ⬜ Comprehensions | `░░░░░░░░░░` 0% | 0/5 |
+| 6 | ⬜ Funksiyalar | `░░░░░░░░░░` 0% | 0/12 |
+| 7 | ⬜ Modullar va Fayllar | `░░░░░░░░░░` 0% | 0/15 |
+| 8 | ⬜ Xatolar, Test va Debug | `░░░░░░░░░░` 0% | 0/11 |
+| 9 | ⬜ OOP (Obyektga Yo'naltirilgan Dasturlash) | `░░░░░░░░░░` 0% | 0/18 |
+| 10 | ⬜ Iterator, Generator, Decorator | `░░░░░░░░░░` 0% | 0/10 |
 | 11 | ⬜ Git va Version Control | `░░░░░░░░░░` 0% | 0/6 |
 | 12 | ⬜ Algoritmlar va Ma'lumot Strukturalari | `░░░░░░░░░░` 0% | 0/12 |
 | 13 | ⬜ Regex va Type Hints | `░░░░░░░░░░` 0% | 0/8 |
@@ -58,4 +63,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-10 12:19</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-15 09:24</sub>
