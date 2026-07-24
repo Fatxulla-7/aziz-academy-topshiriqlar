@@ -1,35 +1,35 @@
-# 🎓 Aziz Academy — UBAYDULLAYEV FATXULLA
+# 🎓 Aziz Academy — Ubaydullayev Fatxulla
 
 **Kurs:** Dasturlash / IT
 
 ## 📊 Umumiy progress
 
-`░░░░░░░░░░░░░░░░░░░░` **2%**  (4/179 mavzu)
+`░░░░░░░░░░░░░░░░░░░░` **1%**  (1/179 mavzu)
 
-- ⭐ Jami ball: **26777**
-- 📤 GitHubga yuborilgan topshiriqlar: **453**
+- ⭐ Jami ball: **26820**
+- 📤 GitHubga yuborilgan topshiriqlar: **454**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 1 — Asoslar** → **Type casting ⭐ — type(), int(), float(), str(), bool()**
+**MODUL 1 — Asoslar** → **Dasturlashga kirish — Python nima va nega o'rganamiz**
 
 ➡️ Keyingi mavzu: *O'rnatish va muhit — Python, interpreter, IDE sozlash*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
 
-- ✅ Dasturlashga kirish — Python nima va nega o'rganamiz
+- ✅ Dasturlashga kirish — Python nima va nega o'rganamiz  ← yetgan joyingiz
 - ⬜ O'rnatish va muhit — Python, interpreter, IDE sozlash
 - ⬜ Birinchi dastur ⭐ — print() va kommentlar
-- ✅ O'zgaruvchilar ⭐ — yaratish va nomlash qoidalari (snake_case)
-- ✅ Sonlar: int va float — butun va kasr sonlar
+- ⬜ O'zgaruvchilar ⭐ — yaratish va nomlash qoidalari (snake_case)
+- ⬜ Sonlar: int va float — butun va kasr sonlar
 - ⬜ Stringlar — kirish: matn, qo'shtirnoqlar, len()
 - ⬜ Bool va mantiq — True/False, mantiqiy ifodalar
 - ⬜ input() bilan ishlash ⭐ — foydalanuvchidan ma'lumot olish
 - ⬜ Arifmetik operatorlar — + - * / // % ** va prioritet
 - ⬜ Mantiqiy operatorlar — and, or, not
 - ⬜ Solishtirish operatorlari — == != > < >= <=
-- ✅ Type casting ⭐ — type(), int(), float(), str(), bool()  ← yetgan joyingiz
+- ⬜ Type casting ⭐ — type(), int(), float(), str(), bool()
 - ⬜ 🛠 Mini-loyiha: Kalkulyator — ikki son ustida amallar (CLI)
 - ⬜ Kod madaniyati: PEP8 — bo'sh joy, nomlash, o'qiluvchanlik
 - ⬜ Xatolik turlari 🔁 — syntax vs runtime, xatoni o'qish
@@ -40,7 +40,7 @@
 
 | # | Modul | Progress | Mavzular |
 |---|-------|----------|----------|
-| 1 | 🔸 Asoslar | `███░░░░░░░` 27% | 4/15 |
+| 1 | 🔸 Asoslar | `█░░░░░░░░░` 7% | 1/15 |
 | 2 | ⬜ Stringlar va Formatlash | `░░░░░░░░░░` 0% | 0/10 |
 | 3 | ⬜ Shartlar va Sikllar | `░░░░░░░░░░` 0% | 0/15 |
 | 4 | ⬜ Ma'lumot Tuzilmalari | `░░░░░░░░░░` 0% | 0/18 |
@@ -63,4 +63,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-15 09:48</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-24 10:06</sub>
