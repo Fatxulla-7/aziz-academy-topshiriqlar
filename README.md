@@ -4,24 +4,24 @@
 
 ## 📊 Umumiy progress
 
-`░░░░░░░░░░░░░░░░░░░░` **1%**  (1/179 mavzu)
+`░░░░░░░░░░░░░░░░░░░░` **2%**  (4/179 mavzu)
 
-- ⭐ Jami ball: **26875**
-- 📤 GitHubga yuborilgan topshiriqlar: **465**
+- ⭐ Jami ball: **28494**
+- 📤 GitHubga yuborilgan topshiriqlar: **466**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 1 — Asoslar** → **Dasturlashga kirish — Python nima va nega o'rganamiz**
+**MODUL 1 — Asoslar** → **O'zgaruvchilar ⭐ — yaratish va nomlash qoidalari (snake_case)**
 
-➡️ Keyingi mavzu: *O'rnatish va muhit — Python, interpreter, IDE sozlash*
+➡️ Keyingi mavzu: *Sonlar: int va float — butun va kasr sonlar*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
 
-- ✅ Dasturlashga kirish — Python nima va nega o'rganamiz  ← yetgan joyingiz
-- ⬜ O'rnatish va muhit — Python, interpreter, IDE sozlash
-- ⬜ Birinchi dastur ⭐ — print() va kommentlar
-- ⬜ O'zgaruvchilar ⭐ — yaratish va nomlash qoidalari (snake_case)
+- ✅ Dasturlashga kirish — Python nima va nega o'rganamiz
+- ✅ O'rnatish va muhit — Python, interpreter, IDE sozlash
+- ✅ Birinchi dastur ⭐ — print() va kommentlar
+- ✅ O'zgaruvchilar ⭐ — yaratish va nomlash qoidalari (snake_case)  ← yetgan joyingiz
 - ⬜ Sonlar: int va float — butun va kasr sonlar
 - ⬜ Stringlar — kirish: matn, qo'shtirnoqlar, len()
 - ⬜ Bool va mantiq — True/False, mantiqiy ifodalar
@@ -40,7 +40,7 @@
 
 | # | Modul | Progress | Mavzular |
 |---|-------|----------|----------|
-| 1 | 🔸 Asoslar | `█░░░░░░░░░` 7% | 1/15 |
+| 1 | 🔸 Asoslar | `███░░░░░░░` 27% | 4/15 |
 | 2 | ⬜ Stringlar va Formatlash | `░░░░░░░░░░` 0% | 0/10 |
 | 3 | ⬜ Shartlar va Sikllar | `░░░░░░░░░░` 0% | 0/15 |
 | 4 | ⬜ Ma'lumot Tuzilmalari | `░░░░░░░░░░` 0% | 0/18 |
@@ -63,4 +63,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-24 10:18</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-25 11:11</sub>
