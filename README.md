@@ -6,14 +6,14 @@
 
 `██░░░░░░░░░░░░░░░░░░` **8%**  (14/179 mavzu)
 
-- ⭐ Jami ball: **34019**
-- 📤 GitHubga yuborilgan topshiriqlar: **492**
+- ⭐ Jami ball: **34034**
+- 📤 GitHubga yuborilgan topshiriqlar: **493**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 1 — Asoslar** → **🛠 Mini-loyiha: Kalkulyator — ikki son ustida amallar (CLI)**
+**MODUL 1 — Asoslar** → **Kod madaniyati: PEP8 — bo'sh joy, nomlash, o'qiluvchanlik**
 
-➡️ Keyingi mavzu: *Kod madaniyati: PEP8 — bo'sh joy, nomlash, o'qiluvchanlik*
+➡️ Keyingi mavzu: *Xatolik turlari 🔁 — syntax vs runtime, xatoni o'qish*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
@@ -30,8 +30,8 @@
 - ✅ Mantiqiy operatorlar — and, or, not
 - ✅ Solishtirish operatorlari — == != > < >= <=
 - ✅ Type casting ⭐ — type(), int(), float(), str(), bool()
-- ✅ 🛠 Mini-loyiha: Kalkulyator — ikki son ustida amallar (CLI)  ← yetgan joyingiz
-- ⬜ Kod madaniyati: PEP8 — bo'sh joy, nomlash, o'qiluvchanlik
+- ✅ 🛠 Mini-loyiha: Kalkulyator — ikki son ustida amallar (CLI)
+- ✅ Kod madaniyati: PEP8 — bo'sh joy, nomlash, o'qiluvchanlik  ← yetgan joyingiz
 - ⬜ Xatolik turlari 🔁 — syntax vs runtime, xatoni o'qish
 
 </details>
@@ -63,4 +63,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-31 11:12</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-08-03 09:46</sub>
